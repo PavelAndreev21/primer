@@ -1,4 +1,6 @@
-def introduse_kof(num,A,B):
+
+
+def introdse_kof(num,A,B):
     print('Ввод матрицы коэффициентов')
     for row in range (num):
         A.append([])
